@@ -120,7 +120,7 @@ a{
 }
 
 /* FOR DESKTOP */
-@media (min-width:376px){
+@media (min-width:776px){
     body{
         background: hsl(210, 46%, 95%);
         
